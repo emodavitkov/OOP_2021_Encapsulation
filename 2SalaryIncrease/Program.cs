@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOP_2021_Encapsulation
+namespace _2SalaryIncrease
 {
     class Program
     {

@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\bin\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.exe
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\bin\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.deps.json
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\bin\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\bin\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\bin\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.dll
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\bin\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.pdb
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\obj\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\obj\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\obj\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\obj\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\obj\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.dll
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\obj\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.pdb
+C:\Users\A474627\source\repos\OOP_2021_Encapsulation\OOP_2021_Encapsulation\obj\Debug\netcoreapp3.1\1_SortPersonsbyNameandAge.genruntimeconfig.cache
